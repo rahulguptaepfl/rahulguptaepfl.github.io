@@ -29,10 +29,9 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+###  Countrywide/Large-scale Assessment of Renewable Energy Resources Hosting Capacity and Flexibility Requirements of the Power Distribution Grids in the USA using Synthetic Models [link](https://data.snf.ch/grants/grant/217874)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The aim of the project is to build realistic synthetic models of electricity distribution networks that can be characterised as a function of geo-specific factors such as the density of electricity demand, weather conditions, types of region (urban or rural), topography, etc. We will then use these synthetic networks to calculate their capacity to accommodate renewable energies, using a tool developed as part of this project. In addition, we will also develop an optimal planning tool to optimise the amount of energy storage and network reinforcement required to increase the capacity of existing networks. These analyses will enable engineers to design future electricity networks and policy makers to make informed decisions on different energy system policies for different regions of the country.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
