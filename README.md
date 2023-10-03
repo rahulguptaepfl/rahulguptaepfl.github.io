@@ -13,6 +13,11 @@
 - B.S., Electrical Engineering | National Institute of Technology, Rourkela, India (_July 2014_)
 
 ## Work Experience
+
+**Postdoctoral Researcher, Georgia Tech, USA (_Oct 2023 - present_)**
+- Synthetic network generation for USA
+- Hosting capacity analysis for the power distribution systems
+
 **Postdoctoral Researcher, Distributed Electrical Systems Laboratory, EPFL, Switzerland (_Feb 2023 - Sep 2023_)**
 - Real-time control and day-ahead scheduling of electric vehicle charging stations (EVCSs) for dispatching active distribution networks. Experimental validation of a dispatching scheme on the real-life medium voltage (MV) power grid of the EPFL.
 - Optimal Power Flow (OPF)-based control and planning of multi-energy systems in a microgrid. Multi-energy systems include modeling and optimization of electrochemical, gas, and thermal storage systems.
@@ -29,18 +34,36 @@
 
 
 ## Projects
-###  Countrywide/Large-scale Assessment of Renewable Energy Resources Hosting Capacity and Flexibility Requirements of the Power Distribution Grids in the USA using Synthetic Models [link](https://data.snf.ch/grants/grant/217874)
+###  Countrywide/Large-scale Assessment of Renewable Energy Resources Hosting Capacity and Flexibility Requirements of the Power Distribution Grids in the USA using Synthetic Models (funded by Swiss National Science Foundation) [link](https://data.snf.ch/grants/grant/217874) 
 
-The aim of the project is to build realistic synthetic models of electricity distribution networks that can be characterised as a function of geo-specific factors such as the density of electricity demand, weather conditions, types of region (urban or rural), topography, etc. We will then use these synthetic networks to calculate their capacity to accommodate renewable energies, using a tool developed as part of this project. In addition, we will also develop an optimal planning tool to optimise the amount of energy storage and network reinforcement required to increase the capacity of existing networks. These analyses will enable engineers to design future electricity networks and policy makers to make informed decisions on different energy system policies for different regions of the country.
+The aim of the project is to build realistic synthetic models of electricity distribution networks that can be characterized as a function of geo-specific factors such as the density of electricity demand, weather conditions, types of regions (urban or rural), topography, etc. We will then use these synthetic networks to calculate their capacity to accommodate renewable energies, using a tool developed as part of this project. In addition, we will also develop an optimal planning tool to optimize the amount of energy storage and network reinforcement required to increase the capacity of existing networks. These analyses will enable engineers to design future electricity networks and policymakers to make informed decisions on different energy system policies for different regions of the country.
 
 ![Venn diagram representing different inputs and processes involved in hosting capacity and optimal planning tools, and flow chart for countrywide planning.](/assets/Venn_planningv2.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### MESH4U (co-funded by European Union’s Horizon 2020 and ERA-Net Smart Energy Systems)
+[link](https://mesh4u.energy)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Experimental validation of a grid-aware dispatching framework by utilizing the flexibility from electric vehicle charging stations (EVCS).
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### SWEET PATHFNDR (funding agency: Swiss Federal Office of Energy’s ``SWEET'' program)
+[link](https://sweet-pathfndr.ch)
+
+Modeling and control of multi-energy systems. Validation of multi-grid dispatch framework.
+
+### REEL Demonstrator (funding agency: Swiss Federal Office of Energy’s ``SCCER-FURIES'' program)
+[link](https://www.epfl.ch/research/domains/sccer-furies/research-activities/reel-demo/)
+
+- Validation of OPF-based real-time control algorithm on a real-life medium voltage distribution network in Aigle, Switzerland, hosting 2.5MWh/1.5MW battery storage capacity, 3.2MWp photovoltaic, 3.4 MVA hydro and 2.8MW base demand.
+- Development of the software for the operation of the battery energy storage system for real-time control.
+
+### RJoint Activity Scenario and Modelling (funding agency: Swiss Federal Office of Energy, Innosuisse)
+[link](https://sccer-jasm.ch)
+
+- Providing a set of robust scenarios for realizing the Swiss Energy Strategy 2050.
+- Assessment of photovoltaic generation hosting capacity for the power distribution networks of Switzerland.
+- Computing cost-optimal placement of energy storage systems for different levels of photovoltaic generation.
+
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
