@@ -1,6 +1,6 @@
 # Postdoctoral Researcher (Georgia Tech)
 
-#### Research Interests: 
+## Research Interests: 
 - Power System Optimization, Control and Planning of Distributed Energy Resources, Optimal Power Flow
 - Distributed Optimization, ADMM
 - Electric Vechicle Control and Planning
@@ -13,13 +13,15 @@
 - B.S., Electrical Engineering | National Institute of Technology, Rourkela, India (_July 2014_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Postdoctoral Researcher, Distributed Electrical Systems Laboratory, EPFL, Switzerland (_Feb 2023 - Sep 2023_)**
+- Real-time control and day-ahead scheduling of electric vehicle charging stations (EVCSs) for dispatching active distribution networks. Experimental validation of a dispatching scheme on the real-life medium voltage (MV) power grid of the EPFL.
+- Optimal Power Flow (OPF)-based control and planning of multi-energy systems in a microgrid. Multi-energy systems include modeling and optimization of electrochemical, gas, and thermal storage systems.
+  
+**Doctoral Researcher, Distributed Electrical Systems Laboratory, EPFL, Switzerland (_Sept 2018 - Jan 2023_)**
+- Optimal Power Flow (OPF)-based grid-aware scheduling and control frameworks for the active distribution networks (ADNs). Stochastic optimization-based dispatch plan computation considering uncertainties on demand and generation by scenarios. Real-time model predictive control of stochastic and energy storage units.
+- Measurement-based/data-driven estimation and control frameworks for distribution networks. Recursive estimation of power-flow sensitivity coefficients for robust voltage control. Estimating compound admittance matrix of an untransposed distribution network using voltage and branch currents measurements.
+- Distributed control and optimization of ADNs with heterogeneous distributed energy resources (batteries, curtailable photovoltaic plants, electrolyzers, fuel cells, etc.) using a method such as ADMM and its variants.
+- Experimental validation of the above control schemes on real-life low-voltage microgrid (hosted at the  Distributed Electrical Systems Laboratory, EPFL) and medium-voltage distribution networks (in Aigle, Switzerland).
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
