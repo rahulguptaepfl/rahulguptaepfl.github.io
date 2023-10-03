@@ -1,11 +1,16 @@
-# Data Scientist
+# Postdoctoral Researcher (Georgia Tech)
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Research Interests: 
+- Power System Optimization, Control and Planning of Distributed Energy Resources, Optimal Power Flow
+- Distributed Optimization, ADMM
+- Electric Vechicle Control and Planning
+- Synthetic Networks, Hosting Capacity Analysis
+- Data-driven Control, Model-less Control Schemes
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Electrical Engineering |  Swiss Federal Institute of Technology - EPFL, Switzerland (_Jan 2023_)								       		
+- M.Sc., Electrical Engineering	| Swiss Federal Institute of Technology - EPFL, Switzerland (_July 2018_)	 			        		
+- B.S., Electrical Engineering | National Institute of Technology, Rourkela, India (_July 2014_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
