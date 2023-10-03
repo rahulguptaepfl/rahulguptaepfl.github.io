@@ -33,7 +33,7 @@
 
 The aim of the project is to build realistic synthetic models of electricity distribution networks that can be characterised as a function of geo-specific factors such as the density of electricity demand, weather conditions, types of region (urban or rural), topography, etc. We will then use these synthetic networks to calculate their capacity to accommodate renewable energies, using a tool developed as part of this project. In addition, we will also develop an optimal planning tool to optimise the amount of energy storage and network reinforcement required to increase the capacity of existing networks. These analyses will enable engineers to design future electricity networks and policy makers to make informed decisions on different energy system policies for different regions of the country.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Venn diagram representing different inputs and processes involved in hosting capacity and optimal planning tools, and flow chart for countrywide planning.](/assets/Venn_planningv2.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
