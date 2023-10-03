@@ -23,6 +23,11 @@
 - Distributed control and optimization of ADNs with heterogeneous distributed energy resources (batteries, curtailable photovoltaic plants, electrolyzers, fuel cells, etc.) using a method such as ADMM and its variants.
 - Experimental validation of the above control schemes on real-life low-voltage microgrid (hosted at the  Distributed Electrical Systems Laboratory, EPFL) and medium-voltage distribution networks (in Aigle, Switzerland).
 
+**Visiting Doctoral Researcher, ParisTech MINES, Nice, France (_Sept 2019 - Jan 2020_)**
+- Development of a countrywide planning tool for estimating photovoltaic (PV) hosting capacity and battery energy storage requirements (as an alternative to grid reinforcement) of power distribution networks.
+- Synthetic power distribution network generation tool for countrywide planning and operation study, made publicly available. [link](https://go.epfl.ch/SwissMVNetworkDB)
+
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
