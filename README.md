@@ -1,4 +1,4 @@
-# rahulguptaepfl.github.io
+# Rahul Gupta
 
 ### Education
 PhD, EE
