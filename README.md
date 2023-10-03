@@ -1,4 +1,4 @@
-# Rahul Gupta
+# Postdoctoral Researcher in Smart Grids
 
 ### Education
 PhD, EE
