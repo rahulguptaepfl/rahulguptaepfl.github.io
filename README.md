@@ -8,7 +8,7 @@
 - Data-driven Control, Model-less Control Schemes
 
 ## Education
-- Ph.D., Electrical Engineering |  Swiss Federal Institute of Technology - EPFL, Switzerland (_Jan 2023_) [link](https://infoscience.epfl.ch/record/299705)							       		
+- Ph.D., Electrical Engineering |  Swiss Federal Institute of Technology - EPFL, Switzerland (_Jan 2023_) [Thesis link](https://infoscience.epfl.ch/record/299705)							       		
 - M.Sc., Electrical Engineering	| Swiss Federal Institute of Technology - EPFL, Switzerland (_July 2018_)	 			        		
 - B.S., Electrical Engineering | National Institute of Technology, Rourkela, India (_July 2014_)
 
@@ -61,51 +61,59 @@ Modeling and control of multi-energy systems. Validation of multi-grid dispatch 
 
 
 ## Talks & Lectures
+### Invited
 - Joint US-European Workshop on Flexible Electric Grid Critical Infrastructure for Resilient Society, Temple
 University Conference Center, April 21-22, 2023, Philadelphia, PA.
 - The 7th Purple Mountain Forum Panel Session - Advanced Optimization and Control Methods towards a Carbon
 Neutral Energy Internet, Nanjing China (Virtual): Grid aware Model Predictive Control of Distributed Energy
 Resources in a Distribution network Theory and Experimental Validation, Gupta, R., 2022.
 
+### Conference presentations
+- Experimental validation of model-less robust voltage control using measurement-based estimated voltage sensitivity coefficients. In 2023 IEEE Belgrade PowerTech, pages 1–8. IEEE, 2023
+- Performance comparison of alternating direction optimization methods for linear-opf based real-time predictive control. In 2021 IEEE Madrid PowerTech, pages 1–6. IEEE, 2021
+- Performance assessment of linearized opf-based distributed real-time predictive control. In 2019 IEEE Milan PowerTech, pages 1–6. IEEE, 2019.
+- An admm-based coordination and control strategy for pv and storage to dispatch stochastic prosumers: Theory
+and experimental validation. In 2018 Power Systems Computation Conference (PSCC), pages 1–7. IEEE, 2018.
+
 
 ## Publications
 ### Journals
-1. Rahul Gupta, Fabrizio Sossan, and Mario Paolone. Optimal sizing and siting of energy storage systems considering
+1. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Optimal sizing and siting of energy storage systems considering
 curtailable photovoltaic generation in power distribution networks. Applied Energy, 339, 2023 [link](https://sccer-jasm.ch)
-2. Rahul Gupta, Antonio Zecchino, Ji-Hyun Yi, and Mario Paolone. Reliable dispatch of active distribution networks
+2. **Rahul Gupta**, Antonio Zecchino, Ji-Hyun Yi, and Mario Paolone. Reliable dispatch of active distribution networks
 via a two-layer grid-aware model predictive control. IEEE Open Access Journal of Power and Energy, 2022.
-3. Rahul Gupta, Sherif Fahmy, and Mario Paolone. Coordinated day-ahead dispatch of multiple power distribution
+3. **Rahul Gupta**, Sherif Fahmy, and Mario Paolone. Coordinated day-ahead dispatch of multiple power distribution
 grids hosting stochastic resources: An admm-based framework. Electric Power Systems Research, 212:108555,
 2022
-4. Rahul Gupta, Fabrizio Sossan, and Mario Paolone. Model-less robust voltage control in active distribution net-
+4. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Model-less robust voltage control in active distribution net-
 works using sensitivity coefficients estimated from measurements. Electric Power Systems Research, 212:108547,
 2022
-5. Francesco Gerini, Yihui Zuo, Rahul Gupta, Antonio Zecchino, Zhao Yuan, Elena Vagnoni, Rachid Cherkaoui,
+5. Francesco Gerini, Yihui Zuo, **Rahul Gupta**, Antonio Zecchino, Zhao Yuan, Elena Vagnoni, Rachid Cherkaoui,
 and Mario Paolone. Optimal grid-forming control of battery energy storage systems providing multiple services:
 Modeling and experimental validation. Electric Power Systems Research, 212:108567, 2022
-6. Rahul Gupta, Fabrizio Sossan, Jean-Yves Le Boudec, and Mario Paolone. Compound admittance matrix estima-
+6. **Rahul Gupta**, Fabrizio Sossan, Jean-Yves Le Boudec, and Mario Paolone. Compound admittance matrix estima-
 on of three-phase untransposed power distribution grids using synchrophasor measurements. IEEE Transactions
 on Instrumentation and Measurement, 70:1–13, 2021.
-7. Rahul Gupta, Fabrizio Sossan, and Mario Paolone. Countrywide pv hosting capacity and energy storage re-
+7. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Countrywide pv hosting capacity and energy storage re-
 requirements for distribution networks: The case of Switzerland. Applied Energy, 281:116010, 2021.
-8. Rahul Gupta, Fabrizio Sossan, and Mario Paolone. Grid-aware distributed model predictive control of hetero-
+8. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Grid-aware distributed model predictive control of hetero-
 neous resources in a distribution network: Theory and experimental validation. IEEE Transactions on Energy
 Conversion, 36(2):1392–1402, 2020
-9. Sherif Fahmy, Rahul Gupta, and Mario Paolone. Grid-aware distributed control of electric vehicle charging
+9. Sherif Fahmy, **Rahul Gupta**, and Mario Paolone. Grid-aware distributed control of electric vehicle charging
 stations in active distribution grids. Electric Power Systems Research, 189:106697, 2022
-10. Fabrizio Sossan, Enrica Scolari, Rahul Gupta, and Mario Paolone. Solar irradiance estimations for modeling the
+10. Fabrizio Sossan, Enrica Scolari, **Rahul Gupta**, and Mario Paolone. Solar irradiance estimations for modeling the
 variability of photovoltaic generation and assessing violations of grid constraints: A comparison between satellite
 and pyranometers measurements with load flow simulations. Journal of Renewable and Sustainable Energy,
 11(5):056103, 2019
 
 ### Conference
-1. Rahul Gupta, and Mario Paolone. (2023). Experimental validation of model-less robust voltage control using measurement-based estimated voltage sensitivity coefficients. In 2023 IEEE Belgrade PowerTech, pages 1–8. IEEE, 2023
-2. Rahul Gupta, Vladimir Sovljanski, Fabrizio Sossan, and Mario Paolone. Performance comparison of alternat-
+1. **Rahul Gupta**, and Mario Paolone. (2023). Experimental validation of model-less robust voltage control using measurement-based estimated voltage sensitivity coefficients. In 2023 IEEE Belgrade PowerTech, pages 1–8. IEEE, 2023
+2. **Rahul Gupta**, Vladimir Sovljanski, Fabrizio Sossan, and Mario Paolone. Performance comparison of alternat-
 ing direction optimization methods for linear-opf based real-time predictive control. In 2021 IEEE Madrid
 PowerTech, pages 1–6. IEEE, 2021
-3. Rahul Gupta, Fabrizio Sossan, and Mario Paolone. Performance assessment of linearized opf-based distributed
+3. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Performance assessment of linearized opf-based distributed
 real-time predictive control. In 2019 IEEE Milan PowerTech, pages 1–6. IEEE, 2019
-4. Rahul Gupta, Fabrizio Sossan, Enrica Scolari, Emil Namor, Luca Fabietti, Colin Jones, and Mario Paolone.
+4. **Rahul Gupta**, Fabrizio Sossan, Enrica Scolari, Emil Namor, Luca Fabietti, Colin Jones, and Mario Paolone.
 An admm-based coordination and control strategy for pv and storage to dispatch stochastic prosumers: Theory
 and experimental validation. In 2018 Power Systems Computation Conference (PSCC), pages 1–7. IEEE, 2018.
 
