@@ -1,5 +1,13 @@
 title: Rahul Gupta
+author:
+  name: GitHub User
+  email: rgupta460@gtech.edu
 logo: /assets/rgupta2.png
 #description: text below image
+description: >
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+
 #show_downloads: true
 theme: jekyll-theme-minima
