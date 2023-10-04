@@ -97,3 +97,15 @@ stations in active distribution grids. Electric Power Systems Research, 189:1066
 variability of photovoltaic generation and assessing violations of grid constraints: A comparison between satellite
 and pyranometers measurements with load flow simulations. Journal of Renewable and Sustainable Energy,
 11(5):056103, 2019
+
+### Conference
+1. Rahul Gupta, and Mario Paolone. (2023). Experimental validation of model-less robust voltage control using measurement-based estimated voltage sensitivity coefficients. In 2023 IEEE Belgrade PowerTech, pages 1–8. IEEE, 2023
+2. Rahul Gupta, Vladimir Sovljanski, Fabrizio Sossan, and Mario Paolone. Performance comparison of alternat-
+ing direction optimization methods for linear-opf based real-time predictive control. In 2021 IEEE Madrid
+PowerTech, pages 1–6. IEEE, 2021
+3. Rahul Gupta, Fabrizio Sossan, and Mario Paolone. Performance assessment of linearized opf-based distributed
+real-time predictive control. In 2019 IEEE Milan PowerTech, pages 1–6. IEEE, 2019
+4. Rahul Gupta, Fabrizio Sossan, Enrica Scolari, Emil Namor, Luca Fabietti, Colin Jones, and Mario Paolone.
+An admm-based coordination and control strategy for pv and storage to dispatch stochastic prosumers: Theory
+and experimental validation. In 2018 Power Systems Computation Conference (PSCC), pages 1–7. IEEE, 2018.
+
