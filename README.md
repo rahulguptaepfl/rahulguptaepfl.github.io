@@ -8,9 +8,9 @@
 - Data-driven Control, Model-less Control Schemes
 
 ## Education
-Ph.D., Electrical Engineering |  Swiss Federal Institute of Technology - EPFL, Switzerland (_Jan 2023_) [Thesis link](https://infoscience.epfl.ch/record/299705)							       		
-M.Sc., Electrical Engineering	| Swiss Federal Institute of Technology - EPFL, Switzerland (_July 2018_)	 			        		
-B.Tech., Electrical Engineering | National Institute of Technology, Rourkela, India (_July 2014_)
+- Ph.D., Electrical Engineering |  Swiss Federal Institute of Technology - EPFL, Switzerland (_Jan 2023_) [Thesis link](https://infoscience.epfl.ch/record/299705)							       		
+- M.Sc., Electrical Engineering	| Swiss Federal Institute of Technology - EPFL, Switzerland (_July 2018_)	 			        		
+- B.Tech., Electrical Engineering | National Institute of Technology, Rourkela, India (_July 2014_)
 
 ## Work Experience
 
