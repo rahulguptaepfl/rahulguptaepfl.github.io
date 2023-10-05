@@ -79,12 +79,12 @@ and experimental validation. Power Systems Computation Conference (PSCC), 2018.
 ## Publications
 ### Journals
 1. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Optimal sizing and siting of energy storage systems considering
-curtailable photovoltaic generation in power distribution networks. Applied Energy, 339, 2023 [link](https://sccer-jasm.ch)
+curtailable photovoltaic generation in power distribution networks. Applied Energy, 339, 2023 [doi](https://doi.org/10.1016/j.apenergy.2023.120955)
 2. **Rahul Gupta**, Antonio Zecchino, Ji-Hyun Yi, and Mario Paolone. Reliable dispatch of active distribution networks
-via a two-layer grid-aware model predictive control. IEEE Open Access Journal of Power and Energy, 2022.
+via a two-layer grid-aware model predictive control. IEEE Open Access Journal of Power and Energy, 2022. [doi](https://doi.org/10.1109/OAJPE.2022.3216072)
 3. **Rahul Gupta**, Sherif Fahmy, and Mario Paolone. Coordinated day-ahead dispatch of multiple power distribution
 grids hosting stochastic resources: An admm-based framework. Electric Power Systems Research, 212:108555,
-2022
+2022 [doi](https://doi.org/10.1016/j.epsr.2022.108555)
 4. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Model-less robust voltage control in active distribution net-
 works using sensitivity coefficients estimated from measurements. Electric Power Systems Research, 212:108547,
 2022
