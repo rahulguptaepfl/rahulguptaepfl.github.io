@@ -68,6 +68,9 @@ University Conference Center, April 21-22, 2023, Philadelphia, PA.
 Neutral Energy Internet, Nanjing China (Virtual): Grid aware Model Predictive Control of Distributed Energy
 Resources in a Distribution network Theory and Experimental Validation, Gupta, R., 2022.
 
+### Conference presentations
+- Experimental validation of model-less robust voltage control using measurement-based estimated voltage sensitivity coefficients. IEEE Belgrade PowerTech, pages 1–8. IEEE, 2023.
+
 ## Publications
 ### Journals
 1. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Optimal sizing and siting of energy storage systems considering
