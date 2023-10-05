@@ -8,9 +8,9 @@
 - Data-driven Control, Model-less Control Schemes
 
 ## Education
-- Ph.D., Electrical Engineering |  Swiss Federal Institute of Technology - EPFL, Switzerland (_Jan 2023_) [Thesis link](https://infoscience.epfl.ch/record/299705)							       		
-- M.Sc., Electrical Engineering	| Swiss Federal Institute of Technology - EPFL, Switzerland (_July 2018_)	 			        		
-- B.S., Electrical Engineering | National Institute of Technology, Rourkela, India (_July 2014_)
+Ph.D., Electrical Engineering |  Swiss Federal Institute of Technology - EPFL, Switzerland (_Jan 2023_) [Thesis link](https://infoscience.epfl.ch/record/299705)							       		
+M.Sc., Electrical Engineering	| Swiss Federal Institute of Technology - EPFL, Switzerland (_July 2018_)	 			        		
+B.Tech., Electrical Engineering | National Institute of Technology, Rourkela, India (_July 2014_)
 
 ## Work Experience
 
@@ -85,8 +85,7 @@ via a two-layer grid-aware model predictive control. IEEE Open Access Journal of
 3. **Rahul Gupta**, Sherif Fahmy, and Mario Paolone. Coordinated day-ahead dispatch of multiple power distribution
 grids hosting stochastic resources: An admm-based framework. Electric Power Systems Research, 212:108555, 2022. [Link](https://doi.org/10.1016/j.epsr.2022.108555)
 4. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Model-less robust voltage control in active distribution net-
-works using sensitivity coefficients estimated from measurements. Electric Power Systems Research, 212:108547,
-2022. [Link](https://doi.org/10.1016/j.epsr.2022.108547)
+works using sensitivity coefficients estimated from measurements. Electric Power Systems Research, 212:108547, 2022 [Link](https://doi.org/10.1016/j.epsr.2022.108547)
 5. Francesco Gerini, Yihui Zuo, **Rahul Gupta**, Antonio Zecchino, Zhao Yuan, Elena Vagnoni, Rachid Cherkaoui,
 and Mario Paolone. Optimal grid-forming control of battery energy storage systems providing multiple services:
 Modeling and experimental validation. Electric Power Systems Research, 212:108567, 2022. [Link](https://doi.org/10.1016/j.epsr.2022.108567) 
