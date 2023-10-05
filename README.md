@@ -69,7 +69,12 @@ Neutral Energy Internet, Nanjing China (Virtual): Grid aware Model Predictive Co
 Resources in a Distribution network Theory and Experimental Validation, Gupta, R., 2022.
 
 ### Conference presentations
-- Experimental validation of model-less robust voltage control using measurement-based estimated voltage sensitivity coefficients. IEEE Belgrade PowerTech, pages 1–8. IEEE, 2023.
+- Experimental validation of model-less robust voltage control using measurement-based estimated voltage sensitivity coefficients. IEEE Belgrade PowerTech, 2023.
+- Performance comparison of alternating direction optimization methods for linear-opf based real-time predictive control. IEEE Madrid PowerTech. 2021.
+- Performance assessment of linearized opf-based distributed real-time predictive control. IEEE Milan PowerTech, 2019.
+- An admm-based coordination and control strategy for pv and storage to dispatch stochastic prosumers: Theory
+and experimental validation. Power Systems Computation Conference (PSCC), 2018.
+
 
 ## Publications
 ### Journals
