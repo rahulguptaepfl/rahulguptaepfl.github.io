@@ -1,5 +1,5 @@
 # Postdoctoral Researcher (Georgia Tech)
-#### [GoogleScolar](https://scholar.google.com/citations?user=FGf5iP8AAAAJ&hl=en&oi=ao)	| [ResearchGate](https://www.researchgate.net/profile/Rahul-Gupta-32)	| [Email](mailto:rgupta460@gatech.edu) | [Linkedin](www.linkedin.com/in/rahul-gupta-6679bb64)		
+#### [GoogleScolar](https://scholar.google.com/citations?user=FGf5iP8AAAAJ&hl=en&oi=ao)	| [ResearchGate](https://www.researchgate.net/profile/Rahul-Gupta-32)	| [Email](mailto:rgupta460@gatech.edu) | [Linkedin](www.linkedin.com/in/rahul-gupta-6679bb64) | [Orcid](https://orcid.org/0000-0002-9905-6092)		
 
 ## Research Interests: 
 - Power System Optimization, Control and Planning of Distributed Energy Resources, Optimal Power Flow
