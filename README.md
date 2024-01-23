@@ -1,5 +1,5 @@
 # Postdoctoral Researcher (ECE, Georgia Tech)
-#### [GoogleScolar](https://scholar.google.com/citations?user=FGf5iP8AAAAJ&hl=en&oi=ao)	| [ResearchGate](https://www.researchgate.net/profile/Rahul-Gupta-32) | [Linkedin](www.linkedin.com/in/rahul-gupta-6679bb64) | [Orcid](https://orcid.org/0000-0002-9905-6092)	| [Email](mailto:rgupta460@gatech.edu)
+#### [GoogleScholar](https://scholar.google.com/citations?user=FGf5iP8AAAAJ&hl=en&oi=ao)	| [ResearchGate](https://www.researchgate.net/profile/Rahul-Gupta-32) | [Linkedin](http://www.linkedin.com/in/rahul-gupta-6679bb64) | [Orcid](https://orcid.org/0000-0002-9905-6092)	| [Email](mailto:rgupta460@gatech.edu)
 
 ## Research Interests: 
 - Power System Optimization, Control and Planning of Distributed Energy Resources, Optimal Power Flow
@@ -79,28 +79,29 @@ and experimental validation. Power Systems Computation Conference (PSCC), 2018.
 
 ## Publications
 ### Journals
-1. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Optimal sizing and siting of energy storage systems considering
+1. **Rahul Gupta**. Quantifying uncertainty on the power-flow sensitivity coefficients from uncertain branches parameters and noisy grid-state measurements. IEEE Transactions on Instrumentation and Measurement, 2023 [Link](https://ieeexplore.ieee.org/abstract/document/10371404/)
+2. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Optimal sizing and siting of energy storage systems considering
 curtailable photovoltaic generation in power distribution networks. Applied Energy, 339, 2023. [Link](https://doi.org/10.1016/j.apenergy.2023.120955)
-2. **Rahul Gupta**, Antonio Zecchino, Ji-Hyun Yi, and Mario Paolone. Reliable dispatch of active distribution networks
+3. **Rahul Gupta**, Antonio Zecchino, Ji-Hyun Yi, and Mario Paolone. Reliable dispatch of active distribution networks
 via a two-layer grid-aware model predictive control. IEEE Open Access Journal of Power and Energy, 2022. [Link](https://doi.org/10.1109/OAJPE.2022.3216072)
-3. **Rahul Gupta**, Sherif Fahmy, and Mario Paolone. Coordinated day-ahead dispatch of multiple power distribution
+4. **Rahul Gupta**, Sherif Fahmy, and Mario Paolone. Coordinated day-ahead dispatch of multiple power distribution
 grids hosting stochastic resources: An admm-based framework. Electric Power Systems Research, 212:108555, 2022. [Link](https://doi.org/10.1016/j.epsr.2022.108555)
-4. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Model-less robust voltage control in active distribution net-
+5. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Model-less robust voltage control in active distribution net-
 works using sensitivity coefficients estimated from measurements. Electric Power Systems Research, 212:108547, 2022 [Link](https://doi.org/10.1016/j.epsr.2022.108547)
-5. Francesco Gerini, Yihui Zuo, **Rahul Gupta**, Antonio Zecchino, Zhao Yuan, Elena Vagnoni, Rachid Cherkaoui,
+6. Francesco Gerini, Yihui Zuo, **Rahul Gupta**, Antonio Zecchino, Zhao Yuan, Elena Vagnoni, Rachid Cherkaoui,
 and Mario Paolone. Optimal grid-forming control of battery energy storage systems providing multiple services:
 Modeling and experimental validation. Electric Power Systems Research, 212:108567, 2022. [Link](https://doi.org/10.1016/j.epsr.2022.108567) 
-6. **Rahul Gupta**, Fabrizio Sossan, Jean-Yves Le Boudec, and Mario Paolone. Compound admittance matrix estima-
+7. **Rahul Gupta**, Fabrizio Sossan, Jean-Yves Le Boudec, and Mario Paolone. Compound admittance matrix estima-
 on of three-phase untransposed power distribution grids using synchrophasor measurements. IEEE Transactions
 on Instrumentation and Measurement, 70:1–13, 2021. [Link](https://doi.org/10.1109/TIM.2021.3092063) 
-7. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Countrywide pv hosting capacity and energy storage re-
+8. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Countrywide pv hosting capacity and energy storage re-
 requirements for distribution networks: The case of Switzerland. Applied Energy, 281:116010, 2021. [Link](https://doi.org/10.1016/j.apenergy.2020.116010) 
-8. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Grid-aware distributed model predictive control of hetero-
+9. **Rahul Gupta**, Fabrizio Sossan, and Mario Paolone. Grid-aware distributed model predictive control of hetero-
 neous resources in a distribution network: Theory and experimental validation. IEEE Transactions on Energy
 Conversion, 36(2):1392–1402, 2020. [Link](https://doi.org/10.1109/TEC.2020.3015271) 
-9. Sherif Fahmy, **Rahul Gupta**, and Mario Paolone. Grid-aware distributed control of electric vehicle charging
+10. Sherif Fahmy, **Rahul Gupta**, and Mario Paolone. Grid-aware distributed control of electric vehicle charging
 stations in active distribution grids. Electric Power Systems Research, 189:106697, 2022. [Link](https://doi.org/10.1016/j.epsr.2020.106697) 
-10. Fabrizio Sossan, Enrica Scolari, **Rahul Gupta**, and Mario Paolone. Solar irradiance estimations for modeling the
+11. Fabrizio Sossan, Enrica Scolari, **Rahul Gupta**, and Mario Paolone. Solar irradiance estimations for modeling the
 variability of photovoltaic generation and assessing violations of grid constraints: A comparison between satellite
 and pyranometers measurements with load flow simulations. Journal of Renewable and Sustainable Energy,
 11(5):056103, 2019. [Link](https://doi.org/10.1063/1.5109076) 
